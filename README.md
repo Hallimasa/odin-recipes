@@ -1,6 +1,6 @@
 # odin-recipes
 
-This is just a project made for me with the purpose of finishing The Project Odin curriculum
+This is just a project made by me with the purpose of finishing The Project Odin curriculum
 
 Odin Recipes
 https://hallimasa.github.io/odin-recipes/
